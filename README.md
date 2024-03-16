@@ -1,5 +1,6 @@
-## ᐕ)ﾉ Hi there!
-I'm Huin2479.
-## 𖤣𖥧𖥣｡𖤣𖥧𖥣｡
+# ᐕ)ﾉ Hi there!
 
-[个人页](https://skyoi.cn/)
+I'm Huin2479.
+
+## 𖤣𖥧𖥣｡𖤣𖥧𖥣｡
+[SITE](https://skyoi.cn/)
