@@ -1,16 +1,15 @@
-## Hi there 👋
+# ᐕ)ﾉ Hi there!  
 
-<!--
-**HuIn2479/HuIn2479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Huin2479.  
+平安喜樂，萬事勝意，祝你，祝我，祝我們
 
-Here are some ideas to get you started:
+## 𖤣𖥧𖥣｡𖤣𖥧𖥣｡  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/huin2479">
+  <img height="auto" align="center" src="https://readme-stats.onedays.top/api?username=huin2479&show_icons=true&theme=transparent" />
+</a>
+<br>
+<a href="https://github.com/huin2479">
+  <img height="auto" align="center" src="https://readme-stats.onedays.top/api/top-langs/?username=huin2479&layout=compact" />
+</a>
+
