@@ -8,7 +8,7 @@
 ## 🍃 About Me  
 
 - **Identity Mosaic**:  
-  A code gardener who never finishes planting × An eternal listener of never-ending stories  
+  🐟 A code gardener who never finishes planting × An eternal listener of never-ending stories  
 - **Current State**:  
   🌏 Resident of 「~~日常の绘绮漫番🌧️~~」  
   ⌛ Text growth cycle: "Outlasts night-blooming cereus, more whimsical than ginkgo"  
