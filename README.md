@@ -1,7 +1,11 @@
 # Hey there, I’m huin2479!  
 
-Between the syntax of code and the rhythm of words,  
-I plant seeds of stories in the quiet spaces.  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huin2479&hide=contribs,prs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huin2479" />
+</a>
 
 ---
 
