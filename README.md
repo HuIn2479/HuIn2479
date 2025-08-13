@@ -14,5 +14,5 @@ I plant seeds of stories in the quiet spaces.
 **Where I Live:**  
 🕰️ My thoughts: "More erratic than the ginkgo, outliving the night-blooming cereus."  
 
-**Say Hello:**  
-✉️ Reach out to: 「me@onedays.top」  
+**Reach Out:**  
+✉️ Let’s chat: 「me@onedays.top」  
