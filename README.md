@@ -1,26 +1,18 @@
-# Hi,I'm huin2479.  
+# Hey there, I’m huin2479!  
 
-> In the crevices between code and prose,  
-> Planting unnamed flowers  
-
----  
-
-## 🍃 About Me  
-
-- **Identity Mosaic**:  
-  🐟 A code gardener who never finishes planting × An eternal listener of never-ending stories  
-- **Current State**:  
-  🌏 Resident of 「~~日常の绘绮漫番🌧️~~」  
-  ⌛ Text growth cycle: "Outlasts night-blooming cereus, more whimsical than ginkgo"  
-- **Contact**:  
-  ✉️ 「me@onedays.top 」
+Between the syntax of code and the rhythm of words,  
+I plant seeds of stories in the quiet spaces.  
 
 ---
 
-## 📮 Time Capsule
+## 🌿 Who Am I?  
 
-```plaintext
-"When certain words make you hear echoes —  
-That's our shared  
-message-in-a-bottle moment in the digital ocean" ☁️  
-```
+**A Coder's Soul:**  
+🐠 Forever cultivating, yet the garden never fully grows.  
+📚 A listener at heart, forever immersed in endless tales.  
+
+**Where I Live:**  
+🕰️ My thoughts: "More erratic than the ginkgo, outliving the night-blooming cereus."  
+
+**Say Hello:**  
+✉️ Reach out to: 「me@onedays.top」  
