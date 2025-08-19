@@ -1,9 +1,9 @@
 # Hey there, I’m huin2479!  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/huin2479/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=huin2479&hide=contribs,prs" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/huin2479/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huin2479" />
 </a>
 
