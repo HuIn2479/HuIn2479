@@ -15,8 +15,8 @@
 🐠 Forever cultivating, yet the garden never fully grows.  
 📚 A listener at heart, forever immersed in endless tales.  
 
-**Where I Live:**  
-🕰️ My thoughts: "More erratic than the ginkgo, outliving the night-blooming cereus."  
+**My thoughts:**  
+"More erratic than the ginkgo, outliving the night-blooming cereus.  
 
 **Reach Out:**  
 ✉️ Let’s chat: 「me@onedays.top」  
