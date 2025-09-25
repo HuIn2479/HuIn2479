@@ -9,14 +9,14 @@
 
 ---
 
-## 🌿 Who Am I?  
+## Who Am I?  
 
 **A Coder's Soul:**  
-🐠 Forever cultivating, yet the garden never fully grows.  
-📚 A listener at heart, forever immersed in endless tales.  
+Forever cultivating, yet the garden never fully grows.  
+A listener at heart, forever immersed in endless tales.  
 
 **My thoughts:**  
 "More erratic than the ginkgo, outliving the night-blooming cereus.  
 
 **Reach Out:**  
-✉️ Let’s chat: 「me@onedays.top」  
+Let’s chat: 「me@onedays.top」  
