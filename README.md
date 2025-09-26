@@ -17,6 +17,3 @@ A listener at heart, forever immersed in endless tales.
 
 **My thoughts:**  
 "More erratic than the ginkgo, outliving the night-blooming cereus.  
-
-**Reach Out:**  
-Let’s chat: 「me@onedays.top」  
