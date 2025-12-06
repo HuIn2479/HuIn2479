@@ -1,10 +1,10 @@
 # Hey there, I’m huin2479!  
 
 <a href="https://github.com/huin2479/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=huin2479&hide=contribs,prs" />
+  <img align="center" src="https://api-ser2.onedays.top/api?username=huin2479&hide=contribs,prs" />
 </a>
 <a href="https://github.com/huin2479/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huin2479" />
+  <img align="center" src="https://api-ser2.onedays.top/api/top-langs/?username=huin2479" />
 </a>
 
 ---
